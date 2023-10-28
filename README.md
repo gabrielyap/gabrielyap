@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Mongo Museum](https://github.com/gabrielyap/mongo-museum)
 
-- 🌱 I'm currently learning **Mongoose ODM** and **TypeScript**
+- 🌱 I'm currently learning **TypeScript**
 
 - 📫 How to reach me **gyapgg@gmail.com**
 
