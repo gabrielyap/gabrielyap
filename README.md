@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Yap</h1>
 <h3 align="center">A full-stack software developer from California</h3>
 
-- 🔭 I’m currently working on [My Personal Website](https://gabrielyap.github.io/)
+- 🔭 I’m currently doing SWE contractor work!
 
 - 🌱 I'm currently learning **TypeScript**
 
